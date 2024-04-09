@@ -1,0 +1,22 @@
+Mar 23, 2023 4:43:37 PM com.example.finalproject_jacksversion.Log info
+INFO: It was cloudy in the garden today
+Mar 23, 2023 4:43:39 PM com.example.finalproject_jacksversion.Log info
+INFO: Flower planted at row 0, column 1
+Mar 23, 2023 4:43:40 PM com.example.finalproject_jacksversion.Log info
+INFO: Flower planted at row 1, column 1
+Mar 23, 2023 4:43:40 PM com.example.finalproject_jacksversion.Log info
+INFO: Flower planted at row 2, column 1
+Mar 23, 2023 4:43:41 PM com.example.finalproject_jacksversion.Log info
+INFO: Flower planted at row 3, column 1
+Mar 23, 2023 4:43:41 PM com.example.finalproject_jacksversion.Log info
+INFO: Flower planted at row 4, column 1
+Mar 23, 2023 4:43:44 PM com.example.finalproject_jacksversion.Log info
+INFO: Vegetable planted at row 0, column 2
+Mar 23, 2023 4:43:45 PM com.example.finalproject_jacksversion.Log info
+INFO: Vegetable planted at row 1, column 2
+Mar 23, 2023 4:43:45 PM com.example.finalproject_jacksversion.Log info
+INFO: Vegetable planted at row 2, column 2
+Mar 23, 2023 4:43:45 PM com.example.finalproject_jacksversion.Log info
+INFO: Vegetable planted at row 3, column 2
+Mar 23, 2023 4:43:46 PM com.example.finalproject_jacksversion.Log info
+INFO: Vegetable planted at row 4, column 2

@@ -1,0 +1,12 @@
+Mar 23, 2023 4:43:52 PM com.example.finalproject_jacksversion.Log info
+INFO: Sprinkler system ON today
+Mar 23, 2023 4:43:52 PM com.example.finalproject_jacksversion.Log info
+INFO: Bee pollinated flower at row 1, column 1
+Mar 23, 2023 4:43:52 PM com.example.finalproject_jacksversion.Log info
+INFO: Bee pollinated flower at row 4, column 1
+Mar 23, 2023 4:43:52 PM com.example.finalproject_jacksversion.Log info
+INFO: SpiderMite spawned on plant at row 0, column 2
+Mar 23, 2023 4:43:52 PM com.example.finalproject_jacksversion.Log info
+INFO: SpiderMite spawned on plant at row 3, column 2
+Mar 23, 2023 4:43:52 PM com.example.finalproject_jacksversion.Log info
+INFO: It was sunny in the garden today!

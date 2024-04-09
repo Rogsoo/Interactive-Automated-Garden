@@ -1,0 +1,12 @@
+Mar 23, 2023 4:43:57 PM com.example.finalproject_jacksversion.Log info
+INFO: Heating system ON today
+Mar 23, 2023 4:43:57 PM com.example.finalproject_jacksversion.Log info
+INFO: Pest control wiped out SpiderMite at row 0, column 2.
+Mar 23, 2023 4:43:57 PM com.example.finalproject_jacksversion.Log info
+INFO: Pest control wiped out SpiderMite at row 3, column 2.
+Mar 23, 2023 4:43:57 PM com.example.finalproject_jacksversion.Log info
+INFO: SpiderMite spawned on plant at row 0, column 2
+Mar 23, 2023 4:43:57 PM com.example.finalproject_jacksversion.Log info
+INFO: SpiderMite spawned on plant at row 2, column 2
+Mar 23, 2023 4:43:57 PM com.example.finalproject_jacksversion.Log info
+INFO: It was cloudy in the garden today
